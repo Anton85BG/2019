@@ -306,7 +306,7 @@ main:after {
 @media (max-width: 600px) {
 
     body {
-        max-width: 90%;
+        max-width: 70rem;
         display: grid;
         grid-template-columns: 1fr;
         /* grid-template-rows: 1fr 0.5fr 5fr 1fr; */
